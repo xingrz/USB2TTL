@@ -10,6 +10,13 @@
   )
 
   (page A4)
+  (title_block
+    (title USB2TTL)
+    (date 2022-05-25)
+    (rev V1.0)
+    (company XiNGRZ)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)

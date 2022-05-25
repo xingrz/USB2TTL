@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "USB2TTL"
+Date "2022-05-25"
+Rev "V1.0"
+Comp "XiNGRZ"
 Comment1 ""
 Comment2 ""
 Comment3 ""
