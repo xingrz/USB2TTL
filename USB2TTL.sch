@@ -670,7 +670,7 @@ U 1 1 6295D325
 P 9400 3750
 F 0 "J2" H 9480 3746 50  0000 L CNN
 F 1 "Conn_01x05" H 9480 3701 50  0001 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal" H 9400 3750 50  0001 C CNN
+F 2 "JLC-SMT:PinHeader_1x05_P2.54mm_Horizontal_SMD" H 9400 3750 50  0001 C CNN
 F 3 "~" H 9400 3750 50  0001 C CNN
 	1    9400 3750
 	1    0    0    -1  
